@@ -59,7 +59,7 @@ typings/
 
 
 /coverage
-/dist
+# /dist
 /local
 /reports
 /node_modules
